@@ -51,7 +51,8 @@ Brazil.
 
 ###
 
-<p align="left">future portfolio</p>
+- <a href="https://github.com/joaopedrolessa/Mario-Kart-Simulator" style="font-size: 15px;">🏁 Mario Kart.js Challenge</a>
+
 
 ###
 
