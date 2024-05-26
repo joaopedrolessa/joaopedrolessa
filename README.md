@@ -52,8 +52,9 @@ Brazil.
 ###
 
 
-- <a href="https://github.com/joaopedrolessa/Mario-Kart-Simulator" style="font-size: 15px;">🏁 Mario Kart.js Challenge</a>
-- <a href="https://github.com/joaopedrolessa/Shopee-Cart" style="font-size: 15px;">🏁 Shopee Cart</a>
+- <a href="https://github.com/joaopedrolessa/Mario-Kart-Simulator" style="font-size: 15px;"> Mario Kart.js Challenge</a>
+- <a href="https://github.com/joaopedrolessa/Project-QRcode" style="font-size: 15px;"> Project-QRcode</a>
+- <a href="https://github.com/joaopedrolessa/Shopee-Cart" style="font-size: 15px;"> Shopee Cart</a>
 
 
 ###
