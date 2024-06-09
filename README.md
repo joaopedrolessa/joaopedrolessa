@@ -51,6 +51,7 @@ Brazil.
 
 ###
 
+- <a href="https://github.com/joaopedrolessa/node-ts-webapi-rest-managing-games-data" style="font-size: 15px;">🎯  Node Web API Rest Game Management API With Express Framework</a>
 - <a href="https://github.com/joaopedrolessa/node-typescript-webapi-rest-without-frameworks-podcast-control" style="font-size: 15px;">🎯  Node Web API Rest Podcast Manager Without Framework</a>
 - <a href="https://github.com/joaopedrolessa/node-typescript-webapi-rest-without-frameworks-podcast-control">🎯  Node Web API Minimal Formula 1 With Fastify framework</a>
 - <a href="https://github.com/joaopedrolessa/Mario-Kart-Simulator" style="font-size: 15px;">🎯  Mario Kart.js Challenge</a>
