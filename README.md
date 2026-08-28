@@ -1,81 +1,146 @@
-<h2 align="left">Hi 👋! I'm João Pedro (Jaypi).</h2>
-<h3 align="left">Backend Developer | Python | Java | AWS Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm João Pedro Lessa</h1>
+
+<h3 align="left">
+Software Developer | Backend | Python | TypeScript | C#/.NET | SQL | AWS
+</h3>
 
 <p align="left">
-  Developer with <b>2 years of professional experience</b> in automation and backend processes (Dataprev).
-  <br>
-  Experienced in <b>Cloud Deployment (AWS EC2)</b>, ETL pipelines, and building scalable Web APIs.
-  <br>
-  With <b>Advanced English</b> proficiency, I combine solid logic from compiled languages (Java/C#) with the agility of Python scripting.
+Computer Science graduate with approximately <b>2 years of corporate experience at Dataprev</b>,
+working with process automation, data processing, ETL and technology compliance.
+</p>
+
+<p align="left">
+My professional experience includes <b>Python, Pandas, Selenium, SQL, Git, QlikView,
+ServiceNow and SharePoint</b>, developing automations that reduced manual processes
+from hours to seconds or minutes and processing datasets with more than
+<b>200,000 records per execution</b>.
+</p>
+
+<p align="left">
+I also develop and maintain <b>VetDash</b>, a full-stack SaaS platform currently
+running in production and used regularly by veterinarians. The application was built
+with <b>TypeScript, Next.js, React, Supabase/PostgreSQL, Vercel and Stripe</b>,
+with automated testing and CI/CD using GitHub Actions.
+</p>
+
+<p align="left">
+I'm currently expanding my knowledge in <b>backend engineering, cloud architecture
+and applied Generative AI</b>, with hands-on projects using .NET/AWS and
+Retrieval-Augmented Generation (RAG).
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Core & Backend:**
-<div align="left">
+### Backend & Software Development
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-**Cloud & Infrastructure:**
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+### Full Stack & Data
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-**Web Stack:**
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+### AI
 
----
-
-### 🚀 Top Projects
-
-#### 🤖 AI & Automation
-* **[Email Automation Tool (NLP)](https://github.com/joaopedrolessa/email-automation-tool)**
-    * *Tech:* Python, Flask, Transformers (Hugging Face).
-    * *Impact:* An intelligent system using **Zero-Shot Classification** to read, categorize (Productive vs. Unproductive), and suggest replies for corporate emails locally.
-
-#### 📱 Mobile & Software Engineering
-* **[EaD Grade Calculator](https://github.com/joaopedrolessa/CalculadoraMedia)**
-    * *Tech:* Java, Android SDK.
-    * *Impact:* Native Android app implementing **MVC Architecture** and robust error handling to calculate student grades. Demonstrates solid OOP principles.
-
-#### 🌐 Web & Architecture
-* **[Fullstack E-commerce Challenge](https://github.com/joaopedrolessa/stg-catalog-challenge)**
-    * *Tech:* TypeScript, Next.js, Supabase, TailwindCSS.
-    * *Impact:* Complete e-commerce flow with authentication, cart management, and WhatsApp checkout integration.
-
-* **[Game Data Management API](https://github.com/joaopedrolessa/node-ts-webapi-rest-managing-games-data)**
-    * *Tech:* Node.js, TypeScript, Express.
-    * *Impact:* RESTful API built with Layered Architecture (Controller/Service/Repository) ensuring separation of concerns.
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-Generative_AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaopedrolessa&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joaopedrolessa&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
-</div>
+### 🐾 VetDash — Veterinary SaaS Platform
+🌐 https://www.vetdash.com.br/
+
+Production SaaS platform designed for veterinarians and developed end-to-end by me.
+
+**Tech:** TypeScript · Next.js · React · Supabase · PostgreSQL · Vercel · Stripe · GitHub Actions
+
+- Full-stack application currently used by real veterinarians
+- Authentication and data persistence with Supabase
+- Subscription management with Stripe
+- Automated tests for critical application flows
+- CI/CD pipeline with GitHub Actions
+- Production troubleshooting involving deployments, DNS and certificates
+- Data protection and LGPD-related implementation
+
+> Source code is private because this is an active production product.
 
 ---
 
-<div align="left">
+### 🤖 AI Sales Assistant — RAG Architecture
+
+[View Repository](https://github.com/joaopedrolessa/PrimeiroProjetoLLM)
+
+Full-stack Generative AI application implementing a complete
+<b>Retrieval-Augmented Generation (RAG)</b> pipeline.
+
+**Tech:** Python · FastAPI · LangChain · FAISS · Hugging Face · Google Gemini · React
+
+- Semantic search using FAISS
+- Hugging Face embeddings
+- Gemini API integration
+- REST API built with FastAPI
+- ETL pipeline for product ingestion and vector generation
+- Automated testing with pytest
+
+---
+
+### ☁️ E-commerce & Cloud Architecture
+
+**Work in Progress**
+
+Backend and cloud architecture project created to apply my knowledge of
+<b>C#/.NET and AWS</b> in a practical environment.
+
+**Planned / In Development:** C# · ASP.NET Core · REST APIs · SQL · Docker · AWS
+
+The project is being developed alongside my studies toward
+<b>AWS Certified Solutions Architect – Associate</b>.
+
+---
+
+## ☁️ AWS Certifications
+
+- **AWS Certified Cloud Practitioner**
+- **AWS re/Start Graduate**
+- Currently preparing for **AWS Certified Solutions Architect – Associate**
+
+---
+
+## 📫 Contact
+
+<p align="left">
   <a href="https://www.linkedin.com/in/joaopedrolessa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
   </a>
+
   <a href="mailto:joaopedro.lessa@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoftoutlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoftoutlook&label=&color=0078D4&logoColor=white&style=for-the-badge" />
   </a>
-</div>
+</p>
