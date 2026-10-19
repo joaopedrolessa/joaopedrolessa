@@ -1,3 +1,4 @@
+
 <h1 align="left">Hi 👋, I'm João Pedro Lessa</h1>
 
 <h3 align="left">
@@ -5,8 +6,16 @@ Software Developer | Backend | Python | TypeScript | C#/.NET | SQL | AWS
 </h3>
 
 <p align="left">
-Computer Science graduate with approximately <b>2 years of corporate experience at Dataprev</b>,
-working with process automation, data processing, ETL and technology compliance.
+  🌐 <a href="https://joaopedrolessa.vercel.app/">
+    <b>Visit my Portfolio</b>
+  </a>
+  — Projects, case studies and professional experience.
+</p>
+
+<p align="left">
+Computer Science graduate with approximately <b>2 years of experience
+as an IT Intern at Dataprev</b>, working with process automation,
+data processing, ETL and technology compliance.
 </p>
 
 <p align="left">
@@ -75,6 +84,7 @@ Retrieval-Augmented Generation (RAG).
 ## 🚀 Featured Projects
 
 ### 🐾 VetDash — Veterinary SaaS Platform
+
 🌐 https://www.vetdash.com.br/
 
 Production SaaS platform designed for veterinarians and developed end-to-end by me.
@@ -136,11 +146,15 @@ The project is being developed alongside my studies toward
 ## 📫 Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joaopedrolessa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
+  <a href="https://joaopedrolessa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/joaopedrolessa/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 
   <a href="mailto:joaopedro.lessa@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoftoutlook&label=&color=0078D4&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoftoutlook&label=&color=0078D4&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </p>
